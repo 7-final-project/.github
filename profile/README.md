@@ -5,7 +5,10 @@ ${\textsf{\color{#FF4500}큐링(Qring)}}$은 **Queue(줄)** 와 **ring(고리)**
 ![7팀_브로셔이미지](https://github.com/user-attachments/assets/70f91b4c-d551-4b2b-88a0-3cce5c8a3d0f)
 
 # ${\textsf{\color{orange} 𝗤}}$ 프로젝트 개요
-
+- 대규모 트래픽 처리 원격 대기열 서비스
+- 개발 기간 | 2024.12.26 - 2024.01.26
+- 팀 Notion | https://www.notion.so/teamsparta/7-1682dc3ef51480c3bd44d37ac4ad02f9
+- 배포 링크 | 
 
 # ${\textsf{\color{orange} 𝗤}}$ 프로젝트 목표
 🧍🏻 **Kafka를 활용한 안정적 대기열 처리**
