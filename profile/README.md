@@ -110,9 +110,21 @@ ${\textsf{\color{#FF4500}큐링(Qring)}}$은 **Queue(줄)** 와 **ring(고리)**
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 # ${\textsf{\color{orange} 𝗤}}$ 기술적 의사결정
-
+<ul>
+  <li><a href="https://github.com/7-final-project/.github/wiki/TSID-%EB%8F%84%EC%9E%85">TSID 도입</a></li>
+  <li><a href="https://github.com/7-final-project/.github/wiki/MySQL-vs-PostgreSQL">MySQL vs PostgreSQL</a></li>
+  <li><a href="https://github.com/7-final-project/.github/wiki/%EB%9D%BD-%EC%A0%84%EB%9E%B5-%EB%B9%84%EA%B5%90%EC%99%80-%EC%B5%9C%EC%A0%81%EC%9D%98-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4-%EC%84%A0%ED%83%9D">락 전략 비교와 최적의 동시성 제어 선택</a></li>
+  <li><a href="https://github.com/7-final-project/.github/wiki/%EB%8C%80%EA%B8%B0%EC%97%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%A9%94%EC%8B%9C%EC%A7%80-%ED%81%90-%EA%B8%B0%EC%88%A0-%EB%B9%84%EA%B5%90-%EB%B0%8F-%EC%84%A0%ED%83%9D">대기열 서비스 구축을 위한 메시지 큐 기술 비교 및 선택</a></li>
+  <li><a href="https://github.com/7-final-project/.github/wiki/%EC%8B%9D%EB%8B%B9-%EC%9A%B4%EC%98%81-%EC%83%81%ED%83%9C-%EB%B3%80%EA%B2%BD-%EB%B0%A9%EC%8B%9D-:-TaskScheduler-vs-%EC%A1%B0%ED%9A%8C-%EC%8B%9C-%EC%83%81%ED%83%9C-%EA%B3%84%EC%82%B0">식당 운영 상태 변경 방식: TaskScheduler vs 조회 시 상태 계산</a></li>
+</ul>
 
 # ${\textsf{\color{orange} 𝗤}}$ 트러블 슈팅
+<ul>
+  <li><a href="https://github.com/7-final-project/.github/wiki/%EB%8C%80%EA%B8%B0%EC%97%B4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0">대기열 시스템 성능 개선</a></li>
+</ul>
+<ul>
+  <li><a href="https://github.com/7-final-project/.github/wiki/%EB%A6%AC%EB%B7%B0%EC%99%80-%EC%8B%9D%EB%8B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0">리뷰와 식당 서비스의 데이터 처리 및 성능 개선</a></li>
+</ul>
 
 
 # 📊 서비스 상태 모니터링 대시보드
