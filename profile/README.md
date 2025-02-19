@@ -125,7 +125,12 @@ ${\textsf{\color{#FF4500}큐링(Qring)}}$은 **Queue(줄)** 와 **ring(고리)**
 <ul>
   <li><a href="https://github.com/7-final-project/.github/wiki/%EB%A6%AC%EB%B7%B0%EC%99%80-%EC%8B%9D%EB%8B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0">리뷰와 식당 서비스의 데이터 처리 및 성능 개선</a></li>
 </ul>
-
+<ul>
+  <li><a href="https://github.com/7-final-project/.github/wiki/%EC%8B%9D%EB%8B%B9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%ED%9A%8C-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0">식당 데이터 조회 속도 개선</a></li>
+</ul>
+<ul>
+  <li><a href="https://github.com/7-final-project/.github/wiki/LIKE-%EB%AC%B8%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B2%80%EC%83%89-%EC%86%8D%EB%8F%84-%EC%A7%80%EC%97%B0-%EA%B0%9C%EC%84%A0">LIKE문을 통한 검색 속도 지연 개선</a></li>
+</ul>
 
 # 📊 서비스 상태 모니터링 대시보드
 | 서비스 이름         | 상태                                                                                  |
