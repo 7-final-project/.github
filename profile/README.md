@@ -7,7 +7,7 @@ ${\textsf{\color{#FF4500}큐링(Qring)}}$은 **Queue(줄)** 와 **ring(고리)**
 # ${\textsf{\color{orange} 𝗤}}$ 프로젝트 개요
 - 대규모 트래픽 처리 원격 대기열 서비스
 - 개발 기간 | 2024.12.26 - 2024.01.26
-- 팀 Notion | https://www.notion.so/teamsparta/7-1682dc3ef51480c3bd44d37ac4ad02f9
+- 팀 Notion | https://www.notion.so/7-241c0ffd7f2080b0a441e4b15eb7c8a9?source=copy_link
 - 배포 링크 | 
 
 # ${\textsf{\color{orange} 𝗤}}$ 프로젝트 목표
